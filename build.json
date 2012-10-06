@@ -1,0 +1,12 @@
+{
+	"source": "src",
+	"spec": "spec",
+	"output": [ "lib" ],
+	"dependencies" : [ "anvil.jshint", "anvil.uglify" ],
+	"anvil.jshint": {
+		"all": true
+	},
+	"anvil.uglify" : {
+		"all": true
+	}
+}

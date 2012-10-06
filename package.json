@@ -1,0 +1,17 @@
+{
+	"name": "amplify.request.deferred.js",
+	"author": "Elijah Manor <elijah.manor@gmail.com> (http://elijahmanor.com)",
+	"description": "Adding jQuery Deferred support to the amplify.request component",
+	"version": "0.0.1",
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/elijahmanor/amplify-request-deferred.git"
+	},
+	"engines": {},
+	"main": "./lib/amplify.request.deferred.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"keywords": []
+}
